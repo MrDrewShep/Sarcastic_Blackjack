@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+assets
+virt_env
+sarcastic_blackjack_spaghetti.py
+test_sarcastic_blackjack.py
+whiteboard.py
